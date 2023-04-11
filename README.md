@@ -1,2 +1,2 @@
 # EstudoJava
-Meu repositório de estudos de java
+Meu repositório de estudos em Java
