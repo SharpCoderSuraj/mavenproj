@@ -1,7 +1,7 @@
 # Memória em java
 |Nome| 
 |---|
-|Heap](#heap) |
+|[Heap](#heap) |
 |[Área dos métodos](#área-dos-métodos) | 
 |[Pilhas da JVM](#pilhas-da-jvm)|
 |[Pilha de métodos nativa](#pilha-de-métodos-nativa)|
