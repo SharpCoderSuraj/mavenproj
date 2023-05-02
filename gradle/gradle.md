@@ -6,7 +6,9 @@
 # Características
 - Sistema de auotmatização de linguagem especifica de domínio baseada em groovy
 - Não utiliza um arquivo XML para a declaração da configuração de projetos
+- Trabalha apenas em tarefas que mudaram
+- Altamente customizada
 
-#Objetivo
+# Objetivo
 - Adicionar funcionalade para umm projeto
 - Baseado num grafico de dependencias de tarefas
