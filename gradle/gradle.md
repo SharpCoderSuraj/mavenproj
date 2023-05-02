@@ -10,5 +10,7 @@
 - Altamente customizada
 
 # Objetivo
-- Adicionar funcionalade para umm projeto
+- Adicionar funcionalade para um projeto
 - Baseado num grafico de dependencias de tarefas
+- Compilações incrementais 
+- Escanear compilações
