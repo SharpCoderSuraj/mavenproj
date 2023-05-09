@@ -1,0 +1,30 @@
+//tag::plugins[]
+plugins{
+	id 'java'
+	id 'application'
+}
+//end::plugins[]
+
+mainClassName = 'hello.HelloWorld'
+
+//tag::repositories[]
+repositories{
+	mavenCentral()
+}
+//end::repositories[]
+
+sourceCompatibility =  1.8;
+targetCompatibility = 1.8;
+
+//tag::dependencies[]
+dependencies{
+	implementation 'joda-time:joda-time:2.12.5'
+}
+//end::repositories[]
+
+//tag::jar[]
+jar {
+	archiveBaseName = 'gs-gradle'
+	archiveVersion = '0.0.1'
+}
+//end::jar[]
