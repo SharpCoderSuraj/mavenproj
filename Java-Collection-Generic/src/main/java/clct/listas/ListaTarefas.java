@@ -3,6 +3,8 @@ package clct.listas;
 import java.util.ArrayList;
 import java.util.List;
 
+import clct.listas.itens.Tarefa;
+
 public class ListaTarefas {
     private List<Tarefa> listaDeTarefas;
 

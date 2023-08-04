@@ -2,7 +2,8 @@ package clct.listas;
 
 import java.util.ArrayList;
 import java.util.List;
-import clct.listas.Compra;
+
+import clct.listas.itens.Compra;
 
 public class Carrinho {
     private List<Compra> listCompra;

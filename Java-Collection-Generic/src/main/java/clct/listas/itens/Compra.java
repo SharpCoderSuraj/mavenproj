@@ -1,4 +1,4 @@
-package clct.listas;
+package clct.listas.itens;
 
 public class Compra {
     private String nome;
