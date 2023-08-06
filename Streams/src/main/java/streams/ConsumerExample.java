@@ -16,10 +16,6 @@ public class ConsumerExample {
             }
         };*/
 
-        numeros.forEach(numero -> {
-            if((numero.intValue() & 1) == 0 ){
-                System.out.println(numero);
-            }
-        });
+        numeros.stream().filter(numeroEPar -> (numeroEPar.intValue() & 1) == 0).forEach(System.out::println);
     }
 }
