@@ -2,15 +2,18 @@ package clct;
 
 import clct.listas.Carrinho;
 import clct.listas.CatalogoLivros;
-import clct.listas.ListaTarefas;
 import clct.listas.Numero;
 import clct.listas.OrdenacaoNumeros;
 import clct.sets.AgendaContatos;
+import clct.sets.CadastroProdutos;
+import clct.sets.ListaTarefas;
 
 public class App{
 
     public static void main(String args[]) {
             new AgendaContatos().run();
+            new ListaTarefas().run();
+            new CadastroProdutos().run();
         }
 
     public void run() {
