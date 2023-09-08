@@ -1,4 +1,4 @@
-package com.estudos.genericostests;
+package com.estudos.genericos;
 
 import com.estudos.genericos.Pessoa;
 

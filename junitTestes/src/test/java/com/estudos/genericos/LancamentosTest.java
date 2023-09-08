@@ -1,13 +1,10 @@
-package com.estudos.genericostests;
+package com.estudos.genericos;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
-
-import com.estudos.genericos.Pessoa;
 
 public class LancamentosTest {
         

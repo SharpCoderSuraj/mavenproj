@@ -1,4 +1,4 @@
-package com.estudos.genericostests;
+package com.estudos.genericos;
 
 import java.time.LocalDateTime;
 
@@ -7,9 +7,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import com.estudos.genericos.BancoDeDados;
-import com.estudos.genericos.Pessoa;
 
 public class BancoDeDadosTest {
     
